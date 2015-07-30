@@ -1,0 +1,1 @@
+A Stream interface wrapper for the Arduino ESP8266 eeprom library. 
